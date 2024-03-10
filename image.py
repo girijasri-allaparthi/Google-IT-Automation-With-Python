@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+##### This Python Programme Converts Images from .tiff  format to .jpeg #######
 import os
 from PIL import Image
 listimages_tif=os.listdir('/home/student-04-1c6cbe55ad0c/supplier-data/images')
